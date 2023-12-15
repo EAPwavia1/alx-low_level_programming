@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	printf("\"This is a piece of art,\n");
-	printf("\"Created with proper grammer, \n");
+	printf("\"with proger grammer,but the outcome is a piece of art,\n");
+
 	return (0);
 }
