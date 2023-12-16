@@ -1,6 +1,6 @@
 #include<stdio.h?>
 /**
- * main -this prints the program
+ * main -this prints the programs
  *
  * Return: 0 on success
  */
